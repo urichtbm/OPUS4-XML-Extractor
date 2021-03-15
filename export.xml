@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export timestamp="2021-03-15T06:30:30Z" doccount="36" queryhits="36">
+  <Opus_Document Id="123" BelongsToBibliography="0" CompletedYear="2011" Language="deu" PublishedYear="2011" PublicationState="draft" ServerState="deleted" Type="article">
+    <ThesisDateAccepted Year="2011" Month="09" Day="26" Hour="00" Minute="00" Second="00" Timezone="+02:00" UnixTimestamp="1316988000"/>
+    <ServerDateModified Year="2020" Month="04" Day="08" Hour="10" Minute="43" Second="42" Timezone="+02:00" UnixTimestamp="1586335422"/>
+    <ServerDatePublished Year="2110" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="4423456042"/>
+    <TitleMain Id="461" Language="deu" Value="Test &quot;Status geöscht&quot;" Type="main"/>
+    <Enrichment Id="19" KeyName="opus.doi.autoCreate" Value="false"/>
+    <Enrichment Id="20" KeyName="opus.urn.autoCreate" Value="false"/>
+    <File Id="124" PathName="foo.html" Label="foo.html" MimeType="text/html" Language="eng" FileSize="847" VisibleInFrontdoor="1" VisibleInOai="1" SortOrder="0"/>
+  </Opus_Document>
+  <Opus_Document Id="124" BelongsToBibliography="0" CompletedYear="2011" Language="deu" PublishedYear="2011" PublicationState="draft" ServerState="unpublished" Type="article">
+    <ThesisDateAccepted Year="2011" Month="09" Day="26" Hour="00" Minute="00" Second="00" Timezone="+02:00" UnixTimestamp="1316988000"/>
+    <ServerDateModified Year="2020" Month="04" Day="08" Hour="12" Minute="13" Second="03" Timezone="+02:00" UnixTimestamp="1586340783"/>
+    <ServerDatePublished Year="2110" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="4423456042"/>
+    <TitleMain Id="460" Language="deu" Value="Testdokument HTML" Type="main"/>
+    <Enrichment Id="23" KeyName="opus.doi.autoCreate" Value="false"/>
+    <Enrichment Id="24" KeyName="opus.urn.autoCreate" Value="false"/>
+    <File Id="125" PathName="bar.html" Label="bar.html" MimeType="text/html" Language="eng" FileSize="847" VisibleInFrontdoor="1" VisibleInOai="1" SortOrder="0"/>
+  </Opus_Document>
+  <Opus_Document Id="306" BelongsToBibliography="0" CompletedYear="2020" Language="deu" PageNumber="20" PublicationState="draft" ServerState="published" Type="book">
+    <CompletedDate Year="2020" Month="04" Day="08" Hour="00" Minute="00" Second="00" Timezone="+02:00" UnixTimestamp="1586296800"/>
+    <ServerDateCreated Year="2020" Month="04" Day="08" Hour="14" Minute="02" Second="40" Timezone="+02:00" UnixTimestamp="1586347360"/>
+    <ServerDateModified Year="2020" Month="04" Day="08" Hour="14" Minute="04" Second="56" Timezone="+02:00" UnixTimestamp="1586347496"/>
+    <ServerDatePublished Year="2020" Month="04" Day="08" Hour="14" Minute="04" Second="56" Timezone="+02:00" UnixTimestamp="1586347496"/>
+    <TitleMain Id="467" Language="deu" Value="Test Monographie" Type="main"/>
+    <TitleAbstract Id="468" Language="deu" Value="Test Upload" Type="abstract"/>
+    <Enrichment Id="29" KeyName="opus.source" Value="publish"/>
+    <Licence Id="7" Active="1" CommentInternal="CC0 1.0 - Universell - Public Domain Dedication" DescMarkup="&lt;!-- Creative Commons-Lizenzvertrag --&gt;&#13;&#10;&lt;a rel=&quot;license&quot; href=&quot;https://creativecommons.org/publicdomain/zero/1.0/deed.de&quot;&gt;&lt;img alt=&quot;Creative Commons License&quot; border=&quot;0&quot; src=&quot;https://licensebuttons.net/p/zero/1.0/88x31.png&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&#13;&#10;&lt;br /&gt;&#13;&#10;Dieses Werk ist unter der &#13;&#10;&lt;a rel=&quot;license&quot; href=&quot;https://creativecommons.org/publicdomain/zero/1.0/deed.de&quot;&gt;Creative Commons-Lizenz - CC0 1.0 -&lt;/a&gt; lizenziert.&lt;/br&gt;&#13;&#10;&lt;!-- Creative Commons-Lizenzvertrag --&gt;&#13;&#10;&#13;&#10;&lt;!--&#13;&#10;&#13;&#10;&lt;rdf:RDF xmlns=&quot;http://web.resource.org/cc/&quot;&#13;&#10;    xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot;&#13;&#10;    xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;&gt;&#13;&#10;&lt;Work rdf:about=&quot;&quot;&gt;&#13;&#10;   &lt;dc:type rdf:resource=&quot;http://purl.org/dc/dcmitype/Text&quot; /&gt;&#13;&#10;   &lt;license rdf:resource=&quot;https://creativecommons.org/publicdomain/zero/1.0/deed.de&quot; /&gt;&#13;&#10;&lt;/Work&gt;&#13;&#10;&#13;&#10;&lt;License rdf:about=&quot;https://creativecommons.org/publicdomain/zero/1.0/deed.de&quot;&gt;&#13;&#10;   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Reproduction&quot; /&gt;&#13;&#10;   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Distribution&quot; /&gt;&#13;&#10;   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Notice&quot; /&gt;&#13;&#10;   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Attribution&quot; /&gt;&#13;&#10;   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/DerivativeWorks&quot; /&gt;&#13;&#10;&lt;/License&gt;&#13;&#10;&#13;&#10;&lt;/rdf:RDF&gt;&#13;&#10;&#13;&#10;--&gt;" DescText="Dieses Werk wurde in die Gemeinfreiheit - auch genannt Public Domain - entlassen, der Urheber hat weltweit auf alle urheberrechtlichen und verwandten Schutzrechte verzichtet, soweit das gesetzlich möglich ist.&#13;&#10;&#13;&#10;Das Werk darf kopiert, verändert, verbreitet und aufgeführt werden, sogar zu kommerziellen Zwecken, ohne um weitere Erlaubnis bitten zu müssen." Language="deu" LinkLicence="https://creativecommons.org/publicdomain/zero/1.0/deed.de" LinkLogo="https://licensebuttons.net/p/zero/1.0/88x31.png" MimeType="text/html" Name="CC0 1.0" NameLong="Creative Commons - CC0 1.0 - Universell - Public Domain Dedication" SortOrder="0" PodAllowed="0"/>
+    <Person Id="316" FirstName="John" LastName="Foo" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <Person Id="317" LastName="KOBV" Email="doe@example.org" OpusId="0" Role="submitter" SortOrder="2" AllowEmailContact="0"/>
+    <PersonAuthor Id="316" FirstName="John" LastName="Foo" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonSubmitter Id="317" LastName="KOBV" Email="doe@example.org" OpusId="0" Role="submitter" SortOrder="1" AllowEmailContact="0"/>
+    <Collection Id="15994" Name="Technische Universität Hamburg-Harburg" RoleId="1" RoleName="institutes" RoleDisplayFrontdoor="Name" RoleVisibleFrontdoor="true" DisplayFrontdoor="Technische Universität Hamburg-Harburg" VisiblePublish="1" Visible="1" Theme="matheon"/>
+    <ThesisPublisher Id="2" Name="Foobar Universitätsbibliothek" Address="Musterstraße 2" City="Musterstadt" IsGrantor="0" IsPublisher="1"/>
+  </Opus_Document>
+  <Opus_Document Id="170" BelongsToBibliography="0" CompletedYear="2013" Language="deu" PublishedYear="2013" PublicationState="draft" ServerState="unpublished" Type="preprint">
+    <ServerDateModified Year="2020" Month="04" Day="08" Hour="12" Minute="33" Second="31" Timezone="+02:00" UnixTimestamp="1586342011"/>
+    <ServerDatePublished Year="2013" Month="09" Day="13" Hour="12" Minute="00" Second="00" Timezone="Z" UnixTimestamp="1379073600"/>
+    <TitleMain Id="451" Language="deu" Value="Dokument mit langen Zusammenfassungen als Beispiele für die Formatierung" Type="main"/>
+    <TitleAbstract Id="452" Language="deu" Value="Dies ist eine Zusammenfassung mit mehreren Paragraphen.&#13;&#10;&#13;&#10;Hier fängt der zweite Paragraph an. Die Zeilenumbrüche müssen bei der Ausgabe erhalten bleiben.&#13;&#10;&#13;&#10;Jetzt kommt dann auch schon der dritte Paragraph mit einer etwas längeren Zeile, die korrekt umgebrochen werden muss." Type="abstract"/>
+    <TitleAbstract Id="453" Language="eng" Value="Diese Zusammenfassung enthält eine sehr lange Zeile ohne Leerzeichen. Auch diese muss umgebrochen werden.&#13;&#10;&#13;&#10;1234567890123456789012345678901234567890123456789012345678901234567890123456&#13;&#10;7890123456789012345678901234567890123456789012345678901234567890123456789012&#13;&#10;34567890123456789&#13;&#10;0123456789012345678901234567890123456789012345678901234567890123456789012345&#13;&#10; 6789012345678901234567890123456789012345678901234567890" Type="abstract"/>
+    <Enrichment Id="27" KeyName="opus.doi.autoCreate" Value="false"/>
+    <Enrichment Id="28" KeyName="opus.urn.autoCreate" Value="false"/>
+  </Opus_Document>
+  <Opus_Document Id="150" BelongsToBibliography="0" CompletedYear="2012" Language="deu" PublishedYear="2012" PublicationState="draft" ServerState="published" Type="preprint">
+    <ServerDateModified Year="2012" Month="06" Day="21" Hour="11" Minute="57" Second="13" Timezone="Z" UnixTimestamp="1340279833"/>
+    <ServerDatePublished Year="2012" Month="06" Day="21" Hour="11" Minute="57" Second="13" Timezone="Z" UnixTimestamp="1340279833"/>
+    <TitleMain Id="456" Language="deu" Value="Autoren mit einem, zwei und drei LaTex-Umlauten, die in den Urls auf der Frontdoor korrekt escaped werden müssen, siehe auch Ticket OPUSVIER-2435." Type="main"/>
+    <Person Id="265" FirstName="J\&quot;ohn" LastName="Doe" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <Person Id="267" FirstName="M\&quot;ax" LastName="M\&quot;oller-M\&quot;uller" OpusId="0" Role="referee" SortOrder="2" AllowEmailContact="0"/>
+    <Person Id="266" FirstName="J\&quot;ane" LastName="D\&quot;oe" OpusId="0" Role="author" SortOrder="3" AllowEmailContact="0"/>
+    <PersonAuthor Id="265" FirstName="J\&quot;ohn" LastName="Doe" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonAuthor Id="266" FirstName="J\&quot;ane" LastName="D\&quot;oe" OpusId="0" Role="author" SortOrder="2" AllowEmailContact="0"/>
+    <PersonReferee Id="267" FirstName="M\&quot;ax" LastName="M\&quot;oller-M\&quot;uller" OpusId="0" Role="referee" SortOrder="1" AllowEmailContact="0"/>
+  </Opus_Document>
+  <Opus_Document Id="149" BelongsToBibliography="0" CompletedYear="2012" ThesisYearAccepted="2012" Language="deu" PublishedYear="2012" PublicationState="draft" ServerState="published" Type="preprint">
+    <ServerDateModified Year="2020" Month="04" Day="08" Hour="12" Minute="18" Second="54" Timezone="+02:00" UnixTimestamp="1586341134"/>
+    <ServerDatePublished Year="2012" Month="01" Day="23" Hour="15" Minute="23" Second="42" Timezone="Z" UnixTimestamp="1327332222"/>
+    <TitleMain Id="463" Language="deu" Value="Zuordnung Series" Type="main"/>
+    <Series Id="3" Title="Invisible Series" Visible="0" SortOrder="3" Number="id-3-is-invisible" DocSortOrder="1"/>
+    <Series Id="4" Title="Visible Series" Visible="1" SortOrder="1" Number="id-4-is-visible" DocSortOrder="1"/>
+  </Opus_Document>
+  <Opus_Document Id="151" BelongsToBibliography="0" CompletedYear="2012" ThesisYearAccepted="2012" Language="deu" PublishedYear="2012" PublicationState="draft" ServerState="published" Type="preprint">
+    <ServerDateModified Year="2020" Month="04" Day="08" Hour="12" Minute="24" Second="15" Timezone="+02:00" UnixTimestamp="1586341455"/>
+    <ServerDatePublished Year="2012" Month="01" Day="16" Hour="19" Minute="23" Second="14" Timezone="Z" UnixTimestamp="1326741794"/>
+    <TitleMain Id="465" Language="deu" Value="Preprint" Type="main"/>
+    <Collection Id="16203" RoleId="19" RoleName="frontdoor-test-2" RoleDisplayFrontdoor="Name" RoleVisibleFrontdoor="true" VisiblePublish="1" Visible="1" Theme="opus4"/>
+    <Collection Id="16204" Number="1" Name="Test Frontdoor 1.1" OaiSubset="0" RoleId="18" RoleName="frontdoor-test-1" RoleDisplayFrontdoor="Name" RoleVisibleFrontdoor="true" DisplayFrontdoor="Test Frontdoor 1.1" VisiblePublish="1" Visible="1" Theme="opus4"/>
+    <Collection Id="16205" Number="2" Name="Test Frontdoor 1.2" OaiSubset="0" RoleId="18" RoleName="frontdoor-test-1" RoleDisplayFrontdoor="Name" RoleVisibleFrontdoor="true" DisplayFrontdoor="Test Frontdoor 1.2" VisiblePublish="1" Visible="1" Theme="opus4"/>
+  </Opus_Document>
+  <Opus_Document Id="146" BelongsToBibliography="1" CompletedYear="2009" ContributingCorporation="Baz University" CreatingCorporation="Bar University" ThesisYearAccepted="1999" Edition="1" Issue="3" Language="deu" PageFirst="1" PageLast="4" PageNumber="4" ArticleNumber="2" PublishedYear="2008" PublisherName="Foo Publishing" PublisherPlace="Timbuktu" PublicationState="draft" ServerState="published" Type="masterthesis" Volume="2">
+    <CompletedDate Year="2011" Month="12" Day="01" UnixTimestamp="1322697600"/>
+    <ThesisDateAccepted Year="2010" Month="11" Day="02" UnixTimestamp="1288656000"/>
+    <EmbargoDate Year="1984" Month="06" Day="05" UnixTimestamp="455241600"/>
+    <PublishedDate Year="2007" Month="04" Day="30" UnixTimestamp="1177891200"/>
+    <ServerDateCreated Year="2012" Month="01" Day="03" Hour="15" Minute="06" Second="40" Timezone="+01:00" UnixTimestamp="1325599600"/>
+    <ServerDateModified Year="2012" Month="01" Day="03" Hour="15" Minute="06" Second="40" Timezone="+01:00" UnixTimestamp="1325599600"/>
+    <ServerDatePublished Year="2012" Month="01" Day="03" Hour="15" Minute="06" Second="40" Timezone="+01:00" UnixTimestamp="1325599600"/>
+    <TitleMain Id="263" Language="deu" Value="KOBV" Type="main"/>
+    <TitleMain Id="264" Language="eng" Value="COLN" Type="main"/>
+    <TitleAbstract Id="265" Language="deu" Value="Die KOBV-Zentrale in Berlin-Dahlem." Type="abstract"/>
+    <TitleAbstract Id="266" Language="eng" Value="Lorem impsum." Type="abstract"/>
+    <TitleParent Id="267" Language="deu" Value="Parent Title" Type="parent"/>
+    <TitleSub Id="268" Language="deu" Value="Service-Zentrale" Type="sub"/>
+    <TitleSub Id="269" Language="eng" Value="Service Center" Type="sub"/>
+    <TitleAdditional Id="270" Language="deu" Value="Kooperativer Biblioheksverbund Berlin-Brandenburg" Type="additional"/>
+    <Identifier Id="499" Value="123" Type="old"/>
+    <Identifier Id="500" Value="123" Type="serial"/>
+    <Identifier Id="501" Value="123" Type="uuid"/>
+    <Identifier Id="502" Value="123" Type="isbn"/>
+    <Identifier Id="503" Value="urn:nbn:op:123" Type="urn"/>
+    <Identifier Id="504" Value="10.1007/978-3-540-76406-9" Type="doi"/>
+    <Identifier Id="505" Value="123" Type="handle"/>
+    <Identifier Id="506" Value="123" Type="url"/>
+    <Identifier Id="507" Value="123" Type="issn"/>
+    <Identifier Id="508" Value="123" Type="std-doi"/>
+    <Identifier Id="509" Value="123" Type="cris-link"/>
+    <Identifier Id="510" Value="123" Type="splash-url"/>
+    <Identifier Id="511" Value="123" Type="opus3-id"/>
+    <Identifier Id="512" Value="123" Type="opac-id"/>
+    <Identifier Id="513" Value="123" Type="pmid"/>
+    <Identifier Id="514" Value="123" Type="arxiv"/>
+    <Note Id="17" Visibility="public" Message="Für die Öffentlichkeit"/>
+    <Note Id="18" Visibility="private" Message="Für den Admin"/>
+    <Patent Id="1" Countries="DDR" Number="1234" YearApplied="1970" Application="The foo machine.">
+      <DateGranted Year="1970" Month="01" Day="01" Hour="00" Minute="00" Second="00" Timezone="+01:00"/>
+    </Patent>
+    <Enrichment Id="1" KeyName="validtestkey" Value="Köln"/>
+    <Enrichment Id="4" KeyName="SourceSwb" Value="http://www.test.de"/>
+    <Enrichment Id="5" KeyName="SourceTitle" Value="Dieses Dokument ist auch erschienen als ..."/>
+    <Enrichment Id="6" KeyName="ClassRvk" Value="LI 99660"/>
+    <Enrichment Id="7" KeyName="ContributorsName" Value="John Doe (Foreword) and Jane Doe (Illustration)"/>
+    <Enrichment Id="8" KeyName="Event" Value="Opus4 OAI-Event"/>
+    <Enrichment Id="9" KeyName="City" Value="Opus4 OAI-City"/>
+    <Enrichment Id="10" KeyName="Country" Value="Opus4 OAI-Country"/>
+    <Enrichment Id="11" KeyName="Relation" Value="info:eu-repo/grantAgreement/EC/FP7/12345"/>
+    <Enrichment Id="13" KeyName="Audience" Value="Researchers"/>
+    <Enrichment Id="15" KeyName="Coverage" Value="name=Western Australia; northlimit=-13.5; southlimit=-35.5; westlimit=112.5; eastlimit=129"/>
+    <Licence Id="4" Active="1" CommentInternal="Namensnennung - Keine Bearbeitungen 4.0 International" DescMarkup="&lt;!-- Creative Commons-Lizenzvertrag --&gt;&#13;&#10;&lt;a rel=&quot;license&quot; href=&quot;https://creativecommons.org/licenses/by-nd/4.0/deed.de&quot;&gt;&lt;img alt=&quot;Creative Commons License&quot; border=&quot;0&quot; src=&quot;https://licensebuttons.net/l/by-nd/4.0/88x31.png&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&#13;&#10;&lt;br /&gt;&#13;&#10;Dieses Werk ist unter der &#13;&#10;&lt;a rel=&quot;license&quot; href=&quot;https://creativecommons.org/licenses/by-nd/4.0/deed.de&quot;&gt;Creative Commons-Lizenz - CC BY-ND - 4.0 International&lt;/a&gt; lizenziert.&lt;/br&gt;&#13;&#10;&lt;!-- /Creative Commons License --&gt;&#13;&#10;&lt;!--&#13;&#10;&#13;&#10;&lt;rdf:RDF xmlns=&quot;http://web.resource.org/cc/&quot;&#13;&#10;    xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot;&#13;&#10;    xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;&gt;&#13;&#10;&lt;Work rdf:about=&quot;&quot;&gt;&#13;&#10;   &lt;dc:type rdf:resource=&quot;http://purl.org/dc/dcmitype/Text&quot; /&gt;&#13;&#10;   &lt;license rdf:resource=&quot;http://creativecommons.org/licenses/by-nd/4.0/&quot; /&gt;&#13;&#10;&lt;/Work&gt;&#13;&#10;&#13;&#10;&lt;License rdf:about=&quot;http://creativecommons.org/licenses/by-nc/4.0/&quot;&gt;&#13;&#10;   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Reproduction&quot; /&gt;&#13;&#10;   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Distribution&quot; /&gt;&#13;&#10;   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Notice&quot; /&gt;&#13;&#10;   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Attribution&quot; /&gt;&#13;&#10;   &lt;prohibits rdf:resource=&quot;http://web.resource.org/cc/CommercialUse&quot; /&gt;&#13;&#10;   &lt;prohibits rdf:resource=&quot;http://web.resource.org/cc/DerivativeWorks&quot; /&gt;&#13;&#10;&lt;/License&gt;&#13;&#10;&#13;&#10;&lt;/rdf:RDF&gt;&#13;&#10;&#13;&#10;--&gt;" DescText="Diese Lizenz erlaubt es, den Inhalt/das Werk in jedwedem Format oder Medium zu vervielfältigen und weiterzuverbreiten, kommerziell wie nicht-kommerziell, solange dies ohne Veränderungen und vollständig geschieht.&#13;&#10;&#13;&#10;Folgende Bedingungen sind weiter zu beachten:&#13;&#10;Der Name des Autors/Rechtsinhabers muss genannt und es muss ein Link zur Lizenz eingefügt werden.&#13;&#10;&#13;&#10;Wenn Sie das Material remixen, verändern oder darauf anderweitig direkt aufbauen, dürfen Sie die bearbeitete Fassung des Materials nicht verbreiten. &#13;&#10;&#13;&#10;Die Lizenz basiert auf der internationalen Creative Commons-Initiative." Language="deu" LinkLicence="https://creativecommons.org/licenses/by-nd/4.0/deed.de" LinkLogo="https://licensebuttons.net/l/by-nd/4.0/88x31.png" MimeType="text/html" Name="CC BY-ND 4.0" NameLong="Creative Commons - CC BY-ND - Namensnennung - Keine Bearbeitungen 4.0 International" SortOrder="0" PodAllowed="0"/>
+    <Person Id="258" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="advisor" SortOrder="1" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </Person>
+    <Person Id="259" FirstName="John" LastName="Doe" Email="doe@example.org" OpusId="0" Role="author" SortOrder="2" AllowEmailContact="1"/>
+    <Person Id="260" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" OpusId="0" Role="contributor" SortOrder="3" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="02" UnixTimestamp="86400"/>
+    </Person>
+    <Person Id="261" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="London" OpusId="0" Role="editor" SortOrder="4" AllowEmailContact="0"/>
+    <Person Id="262" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="referee" SortOrder="5" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </Person>
+    <Person Id="263" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="translator" SortOrder="6" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </Person>
+    <Person Id="264" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="submitter" SortOrder="7" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </Person>
+    <Person Id="270" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="other" SortOrder="8" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </Person>
+    <PersonAdvisor Id="258" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="advisor" SortOrder="1" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </PersonAdvisor>
+    <PersonAuthor Id="259" FirstName="John" LastName="Doe" Email="doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="1"/>
+    <PersonContributor Id="260" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" OpusId="0" Role="contributor" SortOrder="1" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="02" UnixTimestamp="86400"/>
+    </PersonContributor>
+    <PersonEditor Id="261" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="London" OpusId="0" Role="editor" SortOrder="1" AllowEmailContact="0"/>
+    <PersonReferee Id="262" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="referee" SortOrder="1" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </PersonReferee>
+    <PersonOther Id="270" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="other" SortOrder="1" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </PersonOther>
+    <PersonTranslator Id="263" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="translator" SortOrder="1" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </PersonTranslator>
+    <PersonSubmitter Id="264" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="submitter" SortOrder="1" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </PersonSubmitter>
+    <Series Id="1" Title="MySeries" Infobox="Dies ist die Schriftenreihe &lt;b&gt;MySeries&lt;/b&gt;.&lt;br/&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;" Visible="1" SortOrder="0" Number="5/5" DocSortOrder="6"/>
+    <Subject Id="319" Language="deu" Type="swd" Value="Berlin"/>
+    <Subject Id="320" Language="deu" Type="uncontrolled" Value="Palmöl"/>
+    <File Id="126" PathName="test.pdf" Label="foo-pdf" Comment="foo-pdf file" MimeType="application/pdf" Language="deu" FileSize="8817" VisibleInFrontdoor="1" VisibleInOai="1" SortOrder="1">
+      <HashValue Type="md5" Value="1ba50dc8abc619cea3ba39f77c75c0fe"/>
+      <HashValue Type="sha512" Value="24bb2209810bacb3f9c05e08a08aec9ead4ac606fdc7c9d6c5fadffcf66f1e56396fdf46424cf52ef916f9e51f8178fb618c787f952d35aaf6d9079bbc9a50ad"/>
+      <ServerDateSubmitted Year="2013" Month="12" Day="10" UnixTimestamp="1386633600"/>
+    </File>
+    <Collection Id="2" RoleId="2" RoleName="ddc" RoleDisplayFrontdoor="Number,Name" RoleVisibleFrontdoor="true" VisiblePublish="1" Visible="1" Theme="opus4"/>
+    <Collection Id="40" Number="28" Name="Christliche Konfessionen" OaiSubset="28" RoleId="2" RoleName="ddc" RoleDisplayFrontdoor="Number,Name" RoleVisibleFrontdoor="true" DisplayFrontdoor="2 Religion / 28 Christliche Konfessionen" VisiblePublish="1" Visible="0" Theme="opus4"/>
+    <Collection Id="63" Number="51" Name="Mathematik" OaiSubset="51" RoleId="2" RoleName="ddc" RoleDisplayFrontdoor="Number,Name" RoleVisibleFrontdoor="true" DisplayFrontdoor="5 Naturwissenschaften und Mathematik / 51 Mathematik" VisiblePublish="1" Visible="1" Theme="opus4"/>
+    <Collection Id="494" Number="433" Name="Deutsche Wörterbücher" OaiSubset="433" RoleId="2" RoleName="ddc" RoleDisplayFrontdoor="Number,Name" RoleVisibleFrontdoor="true" DisplayFrontdoor="4 Sprache / 43 Deutsch, germanische Sprachen allgemein / 433 Deutsche Wörterbücher" VisiblePublish="1" Visible="0" Theme="opus4"/>
+    <Collection Id="1029" RoleId="3" RoleName="ccs" RoleDisplayFrontdoor="Number,Name" RoleVisibleFrontdoor="true" VisiblePublish="1" Visible="1" Theme="opus4"/>
+    <Collection Id="2930" Number="12.15.Hh" Name="Determination of Kobayashi-Maskawa matrix elements" OaiSubset="12.15.Hh" RoleId="4" RoleName="pacs" RoleDisplayFrontdoor="Number,Name" RoleVisibleFrontdoor="true" DisplayFrontdoor="10.00.00 THE PHYSICS OF ELEMENTARY PARTICLES AND FIELDS (for experimental methods and instrumentation for elementary-particle physics, see section 29) / 12.00.00 Specific theories and interaction models; particle systematics / 12.15.-y Electroweak interactions; Extensions of gauge or Higgs sector, see 12.60.Cn or 12.60.Fr / 12.15.Hh Determination of Kobayashi-Maskawa matrix elements" VisiblePublish="1" Visible="1" Theme="opus4"/>
+    <Collection Id="6719" RoleId="5" RoleName="jel" RoleDisplayFrontdoor="Number,Name" RoleVisibleFrontdoor="true" VisiblePublish="1" Visible="1" Theme="opus4"/>
+    <Collection Id="7871" Number="05-XX" Name="COMBINATORICS (For finite fields, see 11Txx)" OaiSubset="05-XX" RoleId="6" RoleName="msc" RoleDisplayFrontdoor="Number,Name" RoleVisibleFrontdoor="true" DisplayFrontdoor="05-XX COMBINATORICS (For finite fields, see 11Txx)" VisiblePublish="1" Visible="1" Theme="opus4"/>
+    <Collection Id="13944" Number="08.20" Name="Geschichte der westlichen Philosophie: Allgemeines" OaiSubset="08.20" RoleId="7" RoleName="bk" RoleDisplayFrontdoor="Number,Name" RoleVisibleFrontdoor="true" DisplayFrontdoor="08 Philosophie / 08.20 Geschichte der westlichen Philosophie: Allgemeines" VisiblePublish="1" Visible="1" Theme="opus4"/>
+    <Collection Id="16007" Name="Abwasserwirtschaft und Gewässerschutz B-2" RoleId="1" RoleName="institutes" RoleDisplayFrontdoor="Name" RoleVisibleFrontdoor="true" DisplayFrontdoor="Technische Universität Hamburg-Harburg / Bauwesen / Abwasserwirtschaft und Gewässerschutz B-2" VisiblePublish="1" Visible="1" Theme="opus4"/>
+    <Collection Id="16216" Name="OpenAIRE" OaiSubset="openaire" RoleId="23" RoleName="OpenAIRE" RoleDisplayFrontdoor="Name" RoleVisibleFrontdoor="true" DisplayFrontdoor="OpenAIRE" VisiblePublish="1" Visible="1" Theme="opus4"/>
+    <ThesisPublisher Id="2" Name="Foobar Universitätsbibliothek" Address="Musterstraße 2" City="Musterstadt" IsGrantor="0" IsPublisher="1"/>
+    <ThesisPublisher Id="3" Name="Institute with DNB contact ID" Address="Catwalk 1" City="Entenhausen" DnbContactId="Lxxxx-xxxx" IsGrantor="1" IsPublisher="1"/>
+    <ThesisGrantor Id="1" Name="Foobar Universität" Department="Testwissenschaftliche Fakultät" Address="Musterstraße 1" City="Musterstadt" IsGrantor="1" IsPublisher="0"/>
+    <ThesisGrantor Id="4" Name="School of Life" Address="Everywhere" City="Universe" DnbContactId="Lyyyy-yyyy" IsGrantor="1" IsPublisher="1"/>
+  </Opus_Document>
+  <Opus_Document Id="200" BelongsToBibliography="1" CompletedYear="2009" ContributingCorporation="Baz University" CreatingCorporation="Bar University" ThesisYearAccepted="1999" Edition="1" Issue="3" Language="deu" PageFirst="1" PageLast="4" PageNumber="4" PublishedYear="2008" PublisherName="Foo Publishing" PublisherPlace="Timbuktu" PublicationState="draft" ServerState="published" Type="masterthesis" Volume="2">
+    <CompletedDate Year="2011" Month="12" Day="01" UnixTimestamp="1322697600"/>
+    <ThesisDateAccepted Year="2010" Month="11" Day="02" UnixTimestamp="1288656000"/>
+    <PublishedDate Year="2007" Month="04" Day="30" UnixTimestamp="1177891200"/>
+    <ServerDateCreated Year="2012" Month="01" Day="03" Hour="15" Minute="06" Second="40" Timezone="+01:00" UnixTimestamp="1325599600"/>
+    <ServerDateModified Year="2012" Month="01" Day="03" Hour="15" Minute="06" Second="40" Timezone="+01:00" UnixTimestamp="1325599600"/>
+    <ServerDatePublished Year="2012" Month="01" Day="03" Hour="15" Minute="06" Second="40" Timezone="+01:00" UnixTimestamp="1325599600"/>
+    <TitleMain Id="300" Language="deu" Value="KOBV" Type="main"/>
+    <TitleMain Id="301" Language="eng" Value="COLN" Type="main"/>
+    <TitleAbstract Id="302" Language="deu" Value="Die KOBV-Zentrale in Berlin-Dahlem." Type="abstract"/>
+    <TitleAbstract Id="303" Language="eng" Value="Lorem impsum." Type="abstract"/>
+    <TitleParent Id="304" Language="deu" Value="Parent Title" Type="parent"/>
+    <TitleSub Id="305" Language="deu" Value="Service-Zentrale" Type="sub"/>
+    <TitleSub Id="306" Language="eng" Value="Service Center" Type="sub"/>
+    <TitleAdditional Id="307" Language="deu" Value="Kooperativer Biblioheksverbund Berlin-Brandenburg" Type="additional"/>
+    <Identifier Id="600" Value="123" Type="old"/>
+    <Identifier Id="601" Value="123" Type="serial"/>
+    <Identifier Id="602" Value="123" Type="uuid"/>
+    <Identifier Id="603" Value="123" Type="isbn"/>
+    <Identifier Id="604" Value="124" Type="urn"/>
+    <Identifier Id="605" Value="123" Type="doi"/>
+    <Identifier Id="606" Value="123" Type="handle"/>
+    <Identifier Id="607" Value="123" Type="url"/>
+    <Identifier Id="608" Value="123" Type="issn"/>
+    <Identifier Id="609" Value="123" Type="std-doi"/>
+    <Identifier Id="610" Value="123" Type="cris-link"/>
+    <Identifier Id="611" Value="123" Type="splash-url"/>
+    <Identifier Id="612" Value="123" Type="opus3-id"/>
+    <Identifier Id="613" Value="123" Type="opac-id"/>
+    <Identifier Id="614" Value="123" Type="pmid"/>
+    <Identifier Id="615" Value="123" Type="arxiv"/>
+    <Note Id="19" Visibility="public" Message="Für die Öffentlichkeit"/>
+    <Note Id="20" Visibility="private" Message="Für den Admin"/>
+    <Patent Id="2" Countries="DDR" Number="1234" YearApplied="1970" Application="The foo machine.">
+      <DateGranted Year="1970" Month="01" Day="01" Hour="00" Minute="00" Second="00" Timezone="+01:00"/>
+    </Patent>
+    <Patent Id="3" Countries="BRD" Number="4321" YearApplied="1972" Application="The bar machine.">
+      <DateGranted Year="1972" Month="01" Day="01" Hour="00" Minute="00" Second="00" Timezone="+01:00" UnixTimestamp="63068400"/>
+    </Patent>
+    <Enrichment Id="2" KeyName="validtestkey" Value="Köln"/>
+    <Enrichment Id="3" KeyName="validtestkey" Value="Berlin"/>
+    <Licence Id="4" Active="1" CommentInternal="Namensnennung - Keine Bearbeitungen 4.0 International" DescMarkup="&lt;!-- Creative Commons-Lizenzvertrag --&gt;&#13;&#10;&lt;a rel=&quot;license&quot; href=&quot;https://creativecommons.org/licenses/by-nd/4.0/deed.de&quot;&gt;&lt;img alt=&quot;Creative Commons License&quot; border=&quot;0&quot; src=&quot;https://licensebuttons.net/l/by-nd/4.0/88x31.png&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&#13;&#10;&lt;br /&gt;&#13;&#10;Dieses Werk ist unter der &#13;&#10;&lt;a rel=&quot;license&quot; href=&quot;https://creativecommons.org/licenses/by-nd/4.0/deed.de&quot;&gt;Creative Commons-Lizenz - CC BY-ND - 4.0 International&lt;/a&gt; lizenziert.&lt;/br&gt;&#13;&#10;&lt;!-- /Creative Commons License --&gt;&#13;&#10;&lt;!--&#13;&#10;&#13;&#10;&lt;rdf:RDF xmlns=&quot;http://web.resource.org/cc/&quot;&#13;&#10;    xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot;&#13;&#10;    xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;&gt;&#13;&#10;&lt;Work rdf:about=&quot;&quot;&gt;&#13;&#10;   &lt;dc:type rdf:resource=&quot;http://purl.org/dc/dcmitype/Text&quot; /&gt;&#13;&#10;   &lt;license rdf:resource=&quot;http://creativecommons.org/licenses/by-nd/4.0/&quot; /&gt;&#13;&#10;&lt;/Work&gt;&#13;&#10;&#13;&#10;&lt;License rdf:about=&quot;http://creativecommons.org/licenses/by-nc/4.0/&quot;&gt;&#13;&#10;   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Reproduction&quot; /&gt;&#13;&#10;   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Distribution&quot; /&gt;&#13;&#10;   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Notice&quot; /&gt;&#13;&#10;   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Attribution&quot; /&gt;&#13;&#10;   &lt;prohibits rdf:resource=&quot;http://web.resource.org/cc/CommercialUse&quot; /&gt;&#13;&#10;   &lt;prohibits rdf:resource=&quot;http://web.resource.org/cc/DerivativeWorks&quot; /&gt;&#13;&#10;&lt;/License&gt;&#13;&#10;&#13;&#10;&lt;/rdf:RDF&gt;&#13;&#10;&#13;&#10;--&gt;" DescText="Diese Lizenz erlaubt es, den Inhalt/das Werk in jedwedem Format oder Medium zu vervielfältigen und weiterzuverbreiten, kommerziell wie nicht-kommerziell, solange dies ohne Veränderungen und vollständig geschieht.&#13;&#10;&#13;&#10;Folgende Bedingungen sind weiter zu beachten:&#13;&#10;Der Name des Autors/Rechtsinhabers muss genannt und es muss ein Link zur Lizenz eingefügt werden.&#13;&#10;&#13;&#10;Wenn Sie das Material remixen, verändern oder darauf anderweitig direkt aufbauen, dürfen Sie die bearbeitete Fassung des Materials nicht verbreiten. &#13;&#10;&#13;&#10;Die Lizenz basiert auf der internationalen Creative Commons-Initiative." Language="deu" LinkLicence="https://creativecommons.org/licenses/by-nd/4.0/deed.de" LinkLogo="https://licensebuttons.net/l/by-nd/4.0/88x31.png" MimeType="text/html" Name="CC BY-ND 4.0" NameLong="Creative Commons - CC BY-ND - Namensnennung - Keine Bearbeitungen 4.0 International" SortOrder="0" PodAllowed="0"/>
+    <Person Id="300" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="advisor" SortOrder="1" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </Person>
+    <Person Id="301" FirstName="John" LastName="Doe" Email="doe@example.org" OpusId="0" Role="author" SortOrder="2" AllowEmailContact="1"/>
+    <Person Id="302" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="contributor" SortOrder="3" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </Person>
+    <Person Id="303" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="editor" SortOrder="4" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </Person>
+    <Person Id="304" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="referee" SortOrder="5" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </Person>
+    <Person Id="305" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="translator" SortOrder="6" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </Person>
+    <Person Id="306" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="submitter" SortOrder="7" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </Person>
+    <PersonAdvisor Id="300" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="advisor" SortOrder="1" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </PersonAdvisor>
+    <PersonAuthor Id="301" FirstName="John" LastName="Doe" Email="doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="1"/>
+    <PersonContributor Id="302" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="contributor" SortOrder="1" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </PersonContributor>
+    <PersonEditor Id="303" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="editor" SortOrder="1" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </PersonEditor>
+    <PersonReferee Id="304" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="referee" SortOrder="1" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </PersonReferee>
+    <PersonTranslator Id="305" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="translator" SortOrder="1" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </PersonTranslator>
+    <PersonSubmitter Id="306" AcademicTitle="PhD" FirstName="Jane" LastName="Doe" PlaceOfBirth="New York" OpusId="0" Role="submitter" SortOrder="1" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </PersonSubmitter>
+    <Series Id="1" Title="MySeries" Infobox="Dies ist die Schriftenreihe &lt;b&gt;MySeries&lt;/b&gt;.&lt;br/&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;" Visible="1" SortOrder="0" Number="6/6" DocSortOrder="7"/>
+    <Series Id="4" Title="Visible Series" Visible="1" SortOrder="1" Number="6/6" DocSortOrder="2"/>
+    <Subject Id="330" Language="deu" Type="swd" Value="Berlin"/>
+    <Subject Id="331" Language="deu" Type="uncontrolled" Value="Palmöl"/>
+    <Collection Id="1029" RoleId="3" RoleName="ccs" RoleDisplayFrontdoor="Number,Name" RoleVisibleFrontdoor="true" VisiblePublish="1" Visible="1" Theme="opus4"/>
+    <Collection Id="2930" Number="12.15.Hh" Name="Determination of Kobayashi-Maskawa matrix elements" OaiSubset="12.15.Hh" RoleId="4" RoleName="pacs" RoleDisplayFrontdoor="Number,Name" RoleVisibleFrontdoor="true" DisplayFrontdoor="10.00.00 THE PHYSICS OF ELEMENTARY PARTICLES AND FIELDS (for experimental methods and instrumentation for elementary-particle physics, see section 29) / 12.00.00 Specific theories and interaction models; particle systematics / 12.15.-y Electroweak interactions; Extensions of gauge or Higgs sector, see 12.60.Cn or 12.60.Fr / 12.15.Hh Determination of Kobayashi-Maskawa matrix elements" VisiblePublish="1" Visible="1" Theme="opus4"/>
+    <Collection Id="6719" RoleId="5" RoleName="jel" RoleDisplayFrontdoor="Number,Name" RoleVisibleFrontdoor="true" VisiblePublish="1" Visible="1" Theme="opus4"/>
+    <Collection Id="7871" Number="05-XX" Name="COMBINATORICS (For finite fields, see 11Txx)" OaiSubset="05-XX" RoleId="6" RoleName="msc" RoleDisplayFrontdoor="Number,Name" RoleVisibleFrontdoor="true" DisplayFrontdoor="05-XX COMBINATORICS (For finite fields, see 11Txx)" VisiblePublish="1" Visible="1" Theme="opus4"/>
+    <Collection Id="13944" Number="08.20" Name="Geschichte der westlichen Philosophie: Allgemeines" OaiSubset="08.20" RoleId="7" RoleName="bk" RoleDisplayFrontdoor="Number,Name" RoleVisibleFrontdoor="true" DisplayFrontdoor="08 Philosophie / 08.20 Geschichte der westlichen Philosophie: Allgemeines" VisiblePublish="1" Visible="1" Theme="opus4"/>
+    <Collection Id="16007" Name="Abwasserwirtschaft und Gewässerschutz B-2" RoleId="1" RoleName="institutes" RoleDisplayFrontdoor="Name" RoleVisibleFrontdoor="true" DisplayFrontdoor="Technische Universität Hamburg-Harburg / Bauwesen / Abwasserwirtschaft und Gewässerschutz B-2" VisiblePublish="1" Visible="1" Theme="opus4"/>
+    <ThesisPublisher Id="3" Name="Institute with DNB contact ID" Address="Catwalk 1" City="Entenhausen" DnbContactId="Lxxxx-xxxx" IsGrantor="1" IsPublisher="1"/>
+    <ThesisGrantor Id="1" Name="Foobar Universität" Department="Testwissenschaftliche Fakultät" Address="Musterstraße 1" City="Musterstadt" IsGrantor="1" IsPublisher="0"/>
+  </Opus_Document>
+  <Opus_Document Id="250" BelongsToBibliography="1" CompletedYear="2009" ContributingCorporation="Baz University" CreatingCorporation="Bar University" ThesisYearAccepted="1999" Edition="1" Issue="3" Language="deu" PageFirst="1" PageLast="4" PageNumber="4" ArticleNumber="2" PublishedYear="2008" PublisherName="Foo Publishing" PublisherPlace="Timbuktu" PublicationState="draft" ServerState="unpublished" Type="masterthesis" Volume="2">
+    <CompletedDate Year="2011" Month="12" Day="01" UnixTimestamp="1322697600"/>
+    <ThesisDateAccepted Year="2010" Month="11" Day="02" UnixTimestamp="1288656000"/>
+    <PublishedDate Year="2007" Month="04" Day="30" UnixTimestamp="1177891200"/>
+    <ServerDateCreated Year="2012" Month="01" Day="03" Hour="15" Minute="06" Second="40" Timezone="+01:00" UnixTimestamp="1325599600"/>
+    <ServerDateModified Year="2012" Month="01" Day="03" Hour="15" Minute="06" Second="40" Timezone="+01:00" UnixTimestamp="1325599600"/>
+    <ServerDatePublished Year="2012" Month="01" Day="03" Hour="15" Minute="06" Second="40" Timezone="+01:00" UnixTimestamp="1325599600"/>
+    <TitleMain Id="310" Language="deu" Value="Testdokument fuer die Sortierung von Personen im Metadaten-Formular." Type="main"/>
+    <Person Id="310" AcademicTitle="PhD" FirstName="One" LastName="Author" PlaceOfBirth="New York" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="1">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </Person>
+    <Person Id="313" AcademicTitle="PhD" FirstName="Jane" LastName="Contrib" PlaceOfBirth="New York" OpusId="0" Role="contributor" SortOrder="2" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="05" Day="01" UnixTimestamp="10368000"/>
+    </Person>
+    <Person Id="311" FirstName="Two" LastName="Author" Email="doe@example.org" OpusId="0" Role="author" SortOrder="3" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="02" Day="01" UnixTimestamp="2678400"/>
+    </Person>
+    <Person Id="312" AcademicTitle="PhD" FirstName="Three" LastName="Author" PlaceOfBirth="New York" OpusId="0" Role="author" SortOrder="4" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="03" Day="01" UnixTimestamp="5097600"/>
+    </Person>
+    <PersonAuthor Id="310" AcademicTitle="PhD" FirstName="One" LastName="Author" PlaceOfBirth="New York" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="1">
+      <DateOfBirth Year="1970" Month="01" Day="01"/>
+    </PersonAuthor>
+    <PersonAuthor Id="311" FirstName="Two" LastName="Author" Email="doe@example.org" OpusId="0" Role="author" SortOrder="2" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="02" Day="01" UnixTimestamp="2678400"/>
+    </PersonAuthor>
+    <PersonAuthor Id="312" AcademicTitle="PhD" FirstName="Three" LastName="Author" PlaceOfBirth="New York" OpusId="0" Role="author" SortOrder="3" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="03" Day="01" UnixTimestamp="5097600"/>
+    </PersonAuthor>
+    <PersonContributor Id="313" AcademicTitle="PhD" FirstName="Jane" LastName="Contrib" PlaceOfBirth="New York" OpusId="0" Role="contributor" SortOrder="1" AllowEmailContact="0">
+      <DateOfBirth Year="1970" Month="05" Day="01" UnixTimestamp="10368000"/>
+    </PersonContributor>
+  </Opus_Document>
+  <Opus_Document Id="136" BelongsToBibliography="0" CompletedYear="2011" Language="deu" PublishedYear="2011" PublicationState="draft" ServerState="published" Type="masterthesis">
+    <ThesisDateAccepted Year="2011" Month="09" Day="26" Hour="00" Minute="00" Second="00" Timezone="+02:00" UnixTimestamp="1316988000"/>
+    <ServerDateModified Year="2020" Month="04" Day="08" Hour="13" Minute="42" Second="52" Timezone="+02:00" UnixTimestamp="1586346172"/>
+    <ServerDatePublished Year="2011" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1299318442"/>
+    <TitleMain Id="466" Language="deu" Value="Masterarbeit" Type="main"/>
+  </Opus_Document>
+  <Opus_Document Id="145" BelongsToBibliography="0" CompletedYear="2011" Language="deu" PublishedYear="2011" PublicationState="draft" ServerState="published" Type="workingpaper">
+    <ThesisDateAccepted Year="2011" Month="09" Day="26" UnixTimestamp="1316995200"/>
+    <EmbargoDate Year="2050" Month="01" Day="01" UnixTimestamp="2524608000"/>
+    <ServerDateModified Year="2011" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1307155013"/>
+    <ServerDatePublished Year="2011" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1299318442"/>
+    <TitleMain Id="459" Language="deu" Value="OpenAire Test Document" Type="main"/>
+    <Enrichment Id="12" KeyName="Relation" Value="info:eu-repo/grantAgreement/EC/FP7/12345"/>
+    <Enrichment Id="14" KeyName="Audience" Value="Students"/>
+    <Enrichment Id="16" KeyName="Coverage" Value="NL"/>
+    <Person Id="271" FirstName="John" LastName="Done" Email="doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonAuthor Id="271" FirstName="John" LastName="Done" Email="doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <Collection Id="16216" Name="OpenAIRE" OaiSubset="openaire" RoleId="23" RoleName="OpenAIRE" RoleDisplayFrontdoor="Name" RoleVisibleFrontdoor="true" DisplayFrontdoor="OpenAIRE" VisiblePublish="1" Visible="1" Theme="opus4"/>
+  </Opus_Document>
+  <Opus_Document Id="91" BelongsToBibliography="1" CompletedYear="2010" Language="eng" PublishedYear="2010" PublicationState="draft" ServerState="published" Type="report">
+    <ThesisDateAccepted Year="2010" Month="02" Day="26" UnixTimestamp="1267142400"/>
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="224" Language="eng" Value="This is a pdf test document" Type="main"/>
+    <TitleAbstract Id="225" Language="eng" Value="This is a pdf test document" Type="abstract"/>
+    <TitleParent Id="251" Language="eng" Value="This is a parent title" Type="parent"/>
+    <Identifier Id="495" Value="11111111-1111-1111-1111-111111111111" Type="uuid"/>
+    <Identifier Id="496" Value="rewritetest-foo" Type="opus3-id"/>
+    <Identifier Id="515" Value="www.myexampledomain.de/myexamplepath" Type="url"/>
+    <Person Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="1"/>
+    <Person Id="254" FirstName="Jane" LastName="Doe" Email="jane.doe@example.org" OpusId="0" Role="referee" SortOrder="2" AllowEmailContact="0"/>
+    <Person Id="256" FirstName="Rainer" LastName="Zufall" Email="rainer.zufall@example.org" OpusId="0" Role="author" SortOrder="3" AllowEmailContact="1"/>
+    <Person Id="257" FirstName="Klara" LastName="Fall" Email="klara.fall@example.org" OpusId="0" Role="author" SortOrder="4" AllowEmailContact="0"/>
+    <PersonAuthor Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="1"/>
+    <PersonAuthor Id="256" FirstName="Rainer" LastName="Zufall" Email="rainer.zufall@example.org" OpusId="0" Role="author" SortOrder="2" AllowEmailContact="1"/>
+    <PersonAuthor Id="257" FirstName="Klara" LastName="Fall" Email="klara.fall@example.org" OpusId="0" Role="author" SortOrder="3" AllowEmailContact="0"/>
+    <PersonReferee Id="254" FirstName="Jane" LastName="Doe" Email="jane.doe@example.org" OpusId="0" Role="referee" SortOrder="1" AllowEmailContact="0"/>
+    <Series Id="1" Title="MySeries" Infobox="Dies ist die Schriftenreihe &lt;b&gt;MySeries&lt;/b&gt;.&lt;br/&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;" Visible="1" SortOrder="0" Number="1/5" DocSortOrder="0"/>
+    <Series Id="2" Title="Foobar Series" Infobox="&lt;p&gt;Welcome to Foobar Series!&lt;/p&gt;&lt;p&gt;&lt;b&gt;HTML markup&lt;/b&gt; can be used &lt;i&gt;here&lt;/i&gt;.&lt;/p&gt;&lt;a href=&quot;http://example.org&quot;&gt;This is a link.&lt;/a&gt;" Visible="1" SortOrder="2" Number="d" DocSortOrder="0"/>
+    <Series Id="6" Title="OPUS No-Logo Series" Infobox="&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;" Visible="1" SortOrder="7" Number="1" DocSortOrder="0"/>
+    <Subject Id="300" Language="deu" Type="swd" Value="Informationssystem"/>
+    <Subject Id="305" Language="eng" Type="uncontrolled" Value="eBook"/>
+    <Subject Id="313" Language="eng" Type="uncontrolled" Value="english subject"/>
+    <Subject Id="314" Language="eng" Type="uncontrolled" Value="another english subject"/>
+    <Subject Id="315" Language="deu" Type="uncontrolled" Value="deutsches Schlagwort"/>
+    <Subject Id="316" Language="deu" Type="uncontrolled" Value="ein anderes deutsches Schlagwort"/>
+    <Subject Id="317" Language="fra" Type="uncontrolled" Value="mot clé français"/>
+    <Subject Id="318" Language="fra" Type="uncontrolled" Value="autre mot-clé français"/>
+    <Subject Id="321" Language="deu" Type="uncontrolled" Value="ein seeehrrr laaaanges schlagwort"/>
+    <File Id="116" PathName="test.pdf" Label="test.pdf" MimeType="application/pdf" Language="eng" FileSize="6970" VisibleInFrontdoor="1" VisibleInOai="1" SortOrder="0">
+      <HashValue Type="MD5" Value="1ba50dc8abc619cea3ba39f77c75c0fe"/>
+      <HashValue Type="SHA512" Value="24bb2209810bacb3f9c05e08a08aec9ead4ac606fdc7c9d6c5fadffcf66f1e56396fdf46424cf52ef916f9e51f8178fb618c787f952d35aaf6d9079bbc9a50ad"/>
+    </File>
+    <File Id="127" PathName="test.txt" Label="test.txt" MimeType="text/plain" Language="eng" FileSize="591" VisibleInFrontdoor="1" VisibleInOai="1" SortOrder="0"/>
+    <File Id="128" PathName="frontdoor_invisible.txt" Label="frontdoor_invisible.txt" MimeType="text/plain" Language="eng" FileSize="591" VisibleInFrontdoor="0" VisibleInOai="1" SortOrder="0"/>
+    <File Id="129" PathName="oai_invisible.txt" Label="oai_invisible.txt" MimeType="text/plain" Language="eng" FileSize="591" VisibleInFrontdoor="1" VisibleInOai="0" SortOrder="0"/>
+  </Opus_Document>
+  <Opus_Document Id="92" BelongsToBibliography="1" CompletedYear="2009" Language="eng" PublishedYear="2009" PublicationState="draft" ServerState="published" Type="article">
+    <ThesisDateAccepted Year="2010" Month="03" Day="26" UnixTimestamp="1269561600"/>
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="226" Language="eng" Value="This is a xhtml test document" Type="main"/>
+    <TitleAbstract Id="227" Language="eng" Value="This is a xhtml test document" Type="abstract"/>
+    <TitleAbstract Id="271" Language="deu" Value="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet." Type="abstract"/>
+    <TitleAbstract Id="272" Language="fra" Value="Vestibulum volutpat pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis. Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." Type="abstract"/>
+    <Identifier Id="497" Value="rewritetest-baz" Type="opus3-id"/>
+    <Identifier Id="516" Value="http://www.myexampledomain.de/myexamplepath" Type="url"/>
+    <Person Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <Person Id="254" FirstName="Jane" LastName="Doe" Email="jane.doe@example.org" OpusId="0" Role="referee" SortOrder="2" AllowEmailContact="0"/>
+    <Person Id="256" FirstName="Rainer" LastName="Zufall" Email="rainer.zufall@example.org" OpusId="0" Role="author" SortOrder="3" AllowEmailContact="0"/>
+    <PersonAuthor Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonAuthor Id="256" FirstName="Rainer" LastName="Zufall" Email="rainer.zufall@example.org" OpusId="0" Role="author" SortOrder="2" AllowEmailContact="0"/>
+    <PersonReferee Id="254" FirstName="Jane" LastName="Doe" Email="jane.doe@example.org" OpusId="0" Role="referee" SortOrder="1" AllowEmailContact="0"/>
+    <Series Id="1" Title="MySeries" Infobox="Dies ist die Schriftenreihe &lt;b&gt;MySeries&lt;/b&gt;.&lt;br/&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;" Visible="1" SortOrder="0" Number="3/5" DocSortOrder="3"/>
+    <Series Id="2" Title="Foobar Series" Infobox="&lt;p&gt;Welcome to Foobar Series!&lt;/p&gt;&lt;p&gt;&lt;b&gt;HTML markup&lt;/b&gt; can be used &lt;i&gt;here&lt;/i&gt;.&lt;/p&gt;&lt;a href=&quot;http://example.org&quot;&gt;This is a link.&lt;/a&gt;" Visible="1" SortOrder="2" Number="c" DocSortOrder="1"/>
+    <Series Id="6" Title="OPUS No-Logo Series" Infobox="&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;" Visible="1" SortOrder="7" Number="2" DocSortOrder="1"/>
+    <Subject Id="301" Language="deu" Type="swd" Value="Informationssystem"/>
+    <Subject Id="322" Language="deu" Type="uncontrolled" Value="ein seeehrrr laaaanges schlagwort"/>
+    <File Id="117" PathName="test.xhtml" Label="test.xhtml" MimeType="application/xhtml+xml" Language="eng" FileSize="125" VisibleInFrontdoor="1" VisibleInOai="1" SortOrder="0"/>
+    <File Id="132" PathName="datei mit unüblichem Namen.xhtml" Label="datei mit unüblichem Namen.xhtml" MimeType="application/xhtml+xml" Language="eng" FileSize="125" VisibleInFrontdoor="1" VisibleInOai="1" SortOrder="0"/>
+    <Collection Id="16210" Number="coll_visible" Name="Sichtbare Publikationsliste" OaiSubset="0" RoleId="21" RoleName="publists" RoleDisplayFrontdoor="Name" RoleVisibleFrontdoor="true" DisplayFrontdoor="Sichtbare Publikationsliste" VisiblePublish="1" Visible="1" Theme="opus4"/>
+  </Opus_Document>
+  <Opus_Document Id="93" BelongsToBibliography="1" CompletedYear="2009" Language="eng" PublishedYear="2009" PublicationState="draft" ServerState="published" Type="doctoralthesis">
+    <ThesisDateAccepted Year="2010" Month="04" Day="26" UnixTimestamp="1272240000"/>
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="228" Language="eng" Value="This is a plain text test document" Type="main"/>
+    <TitleAbstract Id="229" Language="eng" Value="This is a plain text test document" Type="abstract"/>
+    <Identifier Id="498" Value="rewritetest-foo" Type="opus3-id"/>
+    <Person Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <Person Id="254" FirstName="Jane" LastName="Doe" Email="jane.doe@example.org" OpusId="0" Role="referee" SortOrder="2" AllowEmailContact="0"/>
+    <Person Id="257" FirstName="Klara" LastName="Fall" Email="klara.fall@example.org" OpusId="0" Role="author" SortOrder="3" AllowEmailContact="0"/>
+    <PersonAuthor Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonAuthor Id="257" FirstName="Klara" LastName="Fall" Email="klara.fall@example.org" OpusId="0" Role="author" SortOrder="2" AllowEmailContact="0"/>
+    <PersonReferee Id="254" FirstName="Jane" LastName="Doe" Email="jane.doe@example.org" OpusId="0" Role="referee" SortOrder="1" AllowEmailContact="0"/>
+    <Series Id="1" Title="MySeries" Infobox="Dies ist die Schriftenreihe &lt;b&gt;MySeries&lt;/b&gt;.&lt;br/&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;" Visible="1" SortOrder="0" Number="4/5" DocSortOrder="5"/>
+    <Series Id="2" Title="Foobar Series" Infobox="&lt;p&gt;Welcome to Foobar Series!&lt;/p&gt;&lt;p&gt;&lt;b&gt;HTML markup&lt;/b&gt; can be used &lt;i&gt;here&lt;/i&gt;.&lt;/p&gt;&lt;a href=&quot;http://example.org&quot;&gt;This is a link.&lt;/a&gt;" Visible="1" SortOrder="2" Number="b" DocSortOrder="2"/>
+    <Subject Id="302" Language="deu" Type="swd" Value="Informationssystem"/>
+    <Subject Id="307" Language="eng" Type="uncontrolled" Value="eBook"/>
+    <Subject Id="323" Language="deu" Type="uncontrolled" Value="ein seeehrrr laaaanges schlagwort"/>
+    <File Id="118" PathName="test.txt" Label="test.txt" MimeType="text/plain" Language="eng" FileSize="591" VisibleInFrontdoor="1" VisibleInOai="1" SortOrder="0"/>
+    <ThesisPublisher Id="2" Name="Foobar Universitätsbibliothek" Address="Musterstraße 2" City="Musterstadt" IsGrantor="0" IsPublisher="1"/>
+  </Opus_Document>
+  <Opus_Document Id="94" BelongsToBibliography="1" CompletedYear="2008" Language="eng" PublishedYear="2008" PublicationState="draft" ServerState="published" Type="report">
+    <ThesisDateAccepted Year="2010" Month="05" Day="26" UnixTimestamp="1274832000"/>
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="230" Language="eng" Value="This is a postscript test document" Type="main"/>
+    <TitleAbstract Id="231" Language="eng" Value="This is a postscript test document" Type="abstract"/>
+    <Person Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <Person Id="254" FirstName="Jane" LastName="Doe" Email="jane.doe@example.org" OpusId="0" Role="referee" SortOrder="2" AllowEmailContact="0"/>
+    <PersonAuthor Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonReferee Id="254" FirstName="Jane" LastName="Doe" Email="jane.doe@example.org" OpusId="0" Role="referee" SortOrder="1" AllowEmailContact="0"/>
+    <Series Id="1" Title="MySeries" Infobox="Dies ist die Schriftenreihe &lt;b&gt;MySeries&lt;/b&gt;.&lt;br/&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;" Visible="1" SortOrder="0" Number="2/5" DocSortOrder="1"/>
+    <Series Id="2" Title="Foobar Series" Infobox="&lt;p&gt;Welcome to Foobar Series!&lt;/p&gt;&lt;p&gt;&lt;b&gt;HTML markup&lt;/b&gt; can be used &lt;i&gt;here&lt;/i&gt;.&lt;/p&gt;&lt;a href=&quot;http://example.org&quot;&gt;This is a link.&lt;/a&gt;" Visible="1" SortOrder="2" Number="a" DocSortOrder="3"/>
+    <Subject Id="303" Language="deu" Type="swd" Value="Informationssystem"/>
+    <Subject Id="308" Language="eng" Type="uncontrolled" Value="eBook"/>
+    <File Id="119" PathName="test.ps" Label="test.ps" MimeType="application/postscript" Language="eng" FileSize="22041" VisibleInFrontdoor="1" VisibleInOai="1" SortOrder="0"/>
+  </Opus_Document>
+  <Opus_Document Id="95" BelongsToBibliography="1" CompletedYear="2008" Language="eng" PublishedYear="2008" PublicationState="draft" ServerState="published" Type="article">
+    <ThesisDateAccepted Year="2010" Month="06" Day="26" UnixTimestamp="1277510400"/>
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="232" Language="eng" Value="This is a html test document" Type="main"/>
+    <TitleAbstract Id="233" Language="eng" Value="This is a html test document" Type="abstract"/>
+    <Person Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <Person Id="254" FirstName="Jane" LastName="Doe" Email="jane.doe@example.org" OpusId="0" Role="referee" SortOrder="2" AllowEmailContact="0"/>
+    <PersonAuthor Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonReferee Id="254" FirstName="Jane" LastName="Doe" Email="jane.doe@example.org" OpusId="0" Role="referee" SortOrder="1" AllowEmailContact="0"/>
+    <Subject Id="304" Language="deu" Type="swd" Value="Informationssystem"/>
+    <Subject Id="309" Language="eng" Type="uncontrolled" Value="eBook"/>
+    <File Id="120" PathName="test.html" Label="test.html" MimeType="text/html" Language="eng" FileSize="847" VisibleInFrontdoor="1" VisibleInOai="1" SortOrder="0"/>
+  </Opus_Document>
+  <Opus_Document Id="96" BelongsToBibliography="0" CompletedYear="2008" Language="eng" PublishedYear="2008" PublicationState="draft" ServerState="published" Type="article">
+    <ServerDateModified Year="2020" Month="04" Day="08" Hour="12" Minute="09" Second="43" Timezone="+02:00" UnixTimestamp="1586340583"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="234" Language="eng" Value="This is an unpublished test document with $LaTeX - Code$ in it. For example, \(\sqrt{3x-1}+(1+x)^2\) is an squareroot." Type="main"/>
+    <TitleAbstract Id="273" Language="eng" Value="\[ \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right) \]" Type="abstract"/>
+    <Enrichment Id="21" KeyName="opus.doi.autoCreate" Value="false"/>
+    <Enrichment Id="22" KeyName="opus.urn.autoCreate" Value="false"/>
+    <Person Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonAuthor Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <Subject Id="310" Language="eng" Type="uncontrolled" Value="information science"/>
+  </Opus_Document>
+  <Opus_Document Id="97" BelongsToBibliography="0" CompletedYear="2008" Language="eng" PublishedYear="2008" PublicationState="draft" ServerState="unpublished" Type="article">
+    <ThesisDateAccepted Year="2010" Month="08" Day="26" Hour="00" Minute="00" Second="00" Timezone="+02:00" UnixTimestamp="1282773600"/>
+    <ServerDateModified Year="2020" Month="05" Day="20" Hour="13" Minute="47" Second="34" Timezone="+02:00" UnixTimestamp="1589975254"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="235" Language="eng" Value="This is another unpublished test document" Type="main"/>
+    <Enrichment Id="36" KeyName="RelatedIdentifier" Value="https://opus4mig.kobv.de/opus4-demo-intern/frontdoor/index/index/docId/306"/>
+    <Enrichment Id="40" KeyName="RelatedIdentifierTyp" Value="URL"/>
+    <Enrichment Id="43" KeyName="opus.doi.autoCreate" Value="false"/>
+    <Enrichment Id="44" KeyName="opus.urn.autoCreate" Value="false"/>
+    <Person Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonAuthor Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <Subject Id="311" Language="eng" Type="uncontrolled" Value="information science"/>
+  </Opus_Document>
+  <Opus_Document Id="98" BelongsToBibliography="0" CompletedYear="2008" Language="eng" PublishedYear="2008" PublicationState="draft" ServerState="unpublished" Type="article">
+    <ThesisDateAccepted Year="2010" Month="09" Day="26" UnixTimestamp="1285459200"/>
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="236" Language="eng" Value="This is another unpublished document for testing purposes" Type="main"/>
+    <Person Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonAuthor Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <Subject Id="312" Language="eng" Type="uncontrolled" Value="information science"/>
+  </Opus_Document>
+  <Opus_Document Id="99" BelongsToBibliography="0" CompletedYear="2008" Language="eng" PublishedYear="2008" PublicationState="draft" ServerState="unpublished" Type="article">
+    <ThesisDateAccepted Year="2010" Month="09" Day="26" UnixTimestamp="1285459200"/>
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="237" Language="eng" Value="TOP SECRET - Do not publish!" Type="main"/>
+    <Person Id="254" FirstName="Jane" LastName="Doe" Email="jane.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonAuthor Id="254" FirstName="Jane" LastName="Doe" Email="jane.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+  </Opus_Document>
+  <Opus_Document Id="100" BelongsToBibliography="0" CompletedYear="2008" Language="eng" PublishedYear="2008" PublicationState="draft" ServerState="unpublished" Type="article">
+    <ThesisDateAccepted Year="2010" Month="09" Day="26" UnixTimestamp="1285459200"/>
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="238" Language="eng" Value="A very unpublished document." Type="main"/>
+    <Person Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonAuthor Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+  </Opus_Document>
+  <Opus_Document Id="101" BelongsToBibliography="0" CompletedYear="2008" Language="eng" PublishedYear="2008" PublicationState="draft" ServerState="unpublished" Type="article">
+    <ThesisDateAccepted Year="2010" Month="09" Day="26" UnixTimestamp="1285459200"/>
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="239" Language="eng" Value="This should never be pusblished." Type="main"/>
+    <Person Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonAuthor Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+  </Opus_Document>
+  <Opus_Document Id="102" BelongsToBibliography="0" CompletedYear="2008" Language="eng" PublishedYear="2008" PublicationState="draft" ServerState="unpublished" Type="article">
+    <ThesisDateAccepted Year="2010" Month="09" Day="26" UnixTimestamp="1285459200"/>
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="240" Language="eng" Value="Something that should never have been written, but now that it has please do not publish it!" Type="main"/>
+    <Person Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonAuthor Id="253" FirstName="John" LastName="Doe" Email="john.doe@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+  </Opus_Document>
+  <Opus_Document Id="104" BelongsToBibliography="0" CompletedYear="2008" Language="eng" PublishedYear="2008" PublicationState="draft" ServerState="unpublished" Type="article">
+    <ThesisDateAccepted Year="2010" Month="07" Day="26" UnixTimestamp="1280102400"/>
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="242" Language="eng" Value="What you never wanted to know about Opus!" Type="main"/>
+    <Person Id="255" FirstName="Wally" LastName="Walruss" Email="wally@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonAuthor Id="255" FirstName="Wally" LastName="Walruss" Email="wally@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+  </Opus_Document>
+  <Opus_Document Id="105" BelongsToBibliography="0" CompletedYear="2008" Language="eng" PublishedYear="2008" PublicationState="draft" ServerState="unpublished" Type="article">
+    <ThesisDateAccepted Year="2010" Month="08" Day="26" UnixTimestamp="1282780800"/>
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="243" Language="eng" Value="Learning to program in 5 minutes or less." Type="main"/>
+    <Person Id="255" FirstName="Wally" LastName="Walruss" Email="wally@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonAuthor Id="255" FirstName="Wally" LastName="Walruss" Email="wally@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+  </Opus_Document>
+  <Opus_Document Id="106" BelongsToBibliography="0" CompletedYear="2008" Language="eng" PublishedYear="2008" PublicationState="draft" ServerState="unpublished" Type="article">
+    <ThesisDateAccepted Year="2010" Month="09" Day="26" UnixTimestamp="1285459200"/>
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="244" Language="eng" Value="A day in the life of an Opus developer." Type="main"/>
+    <Person Id="255" FirstName="Wally" LastName="Walruss" Email="wally@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonAuthor Id="255" FirstName="Wally" LastName="Walruss" Email="wally@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+  </Opus_Document>
+  <Opus_Document Id="107" BelongsToBibliography="0" CompletedYear="2008" Language="eng" PublishedYear="2008" PublicationState="draft" ServerState="unpublished" Type="article">
+    <ThesisDateAccepted Year="2010" Month="09" Day="26" UnixTimestamp="1285459200"/>
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="245" Language="eng" Value="Another day in the life of an Opus developer." Type="main"/>
+    <Person Id="255" FirstName="Wally" LastName="Walruss" Email="wally@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonAuthor Id="255" FirstName="Wally" LastName="Walruss" Email="wally@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+  </Opus_Document>
+  <Opus_Document Id="108" BelongsToBibliography="0" CompletedYear="2008" Language="eng" PublishedYear="2008" PublicationState="draft" ServerState="unpublished" Type="article">
+    <ThesisDateAccepted Year="2010" Month="09" Day="26" UnixTimestamp="1285459200"/>
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="246" Language="eng" Value="Wally - The vegetarian walruss." Type="main"/>
+    <Person Id="255" FirstName="Wally" LastName="Walruss" Email="wally@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonAuthor Id="255" FirstName="Wally" LastName="Walruss" Email="wally@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+  </Opus_Document>
+  <Opus_Document Id="109" BelongsToBibliography="0" CompletedYear="2008" Language="eng" PublishedYear="2008" PublicationState="draft" ServerState="unpublished" Type="article">
+    <ThesisDateAccepted Year="2010" Month="09" Day="26" UnixTimestamp="1285459200"/>
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="247" Language="eng" Value="What to do if your build is broken!" Type="main"/>
+    <Person Id="255" FirstName="Wally" LastName="Walruss" Email="wally@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonAuthor Id="255" FirstName="Wally" LastName="Walruss" Email="wally@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+  </Opus_Document>
+  <Opus_Document Id="110" BelongsToBibliography="0" CompletedYear="2008" Language="eng" PublishedYear="2008" PublicationState="draft" ServerState="unpublished" Type="article">
+    <ThesisDateAccepted Year="2010" Month="09" Day="26" UnixTimestamp="1285459200"/>
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="248" Language="eng" Value="Internet access broken? - What you could do instead." Type="main"/>
+    <Person Id="255" FirstName="Wally" LastName="Walruss" Email="wally@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonAuthor Id="255" FirstName="Wally" LastName="Walruss" Email="wally@example.org" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+  </Opus_Document>
+  <Opus_Document Id="111" BelongsToBibliography="0" CompletedYear="2035" Language="deu" PublishedYear="2008" PublicationState="draft" ServerState="published" Type="article">
+    <ThesisDateAccepted Year="2010" Month="09" Day="26" UnixTimestamp="1285459200"/>
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="249" Language="deu" Value="&lt;script type=&quot;text/javascript&quot;&gt;alert('title_main');&lt;/script&gt;" Type="main"/>
+    <TitleAbstract Id="250" Language="deu" Value="&lt;script type=&quot;text/javascript&quot;&gt;alert('title_abstract');&lt;/script&gt; test" Type="abstract"/>
+    <Collection Id="16022" Name="Messtechnik E-6" RoleId="1" RoleName="institutes" RoleDisplayFrontdoor="Name" RoleVisibleFrontdoor="true" DisplayFrontdoor="Technische Universität Hamburg-Harburg / Elektrotechnik und Informationstechnik / Messtechnik E-6" VisiblePublish="1" Visible="1"/>
+  </Opus_Document>
+  <Opus_Document Id="117" BelongsToBibliography="0" CompletedYear="2011" Language="deu" PublishedYear="2010" PublicationState="draft" ServerState="deleted" Type="article">
+    <ServerDateModified Year="2020" Month="04" Day="08" Hour="13" Minute="15" Second="57" Timezone="+02:00" UnixTimestamp="1586344557"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="257" Language="deu" Value="Dokument mit (CompletedYear und PubilshedYear) ohne (CompletedDate und PublishedDate)" Type="main"/>
+  </Opus_Document>
+  <Opus_Document Id="120" BelongsToBibliography="0" CompletedYear="2011" Language="deu" PublishedYear="2010" PublicationState="draft" ServerState="published" Type="article">
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="260" Language="deu" Value="Dokument mit sehr, sehr langem Dateinamen" Type="main"/>
+    <File Id="121" PathName="Dies_ist_ein_ganz_besonders_langer_Dateiname.pdf" Label="Dies_ist_ein_ganz_besonders_langer_Dateiname.pdf" MimeType="application/pdf" Language="eng" FileSize="72603" VisibleInFrontdoor="1" VisibleInOai="1" SortOrder="0"/>
+  </Opus_Document>
+  <Opus_Document Id="160" BelongsToBibliography="0" CompletedYear="2011" Language="deu" PublishedYear="2010" PublicationState="draft" ServerState="unpublished" Type="article">
+    <ServerDateModified Year="2010" Month="06" Day="04" Hour="02" Minute="36" Second="53" Timezone="Z" UnixTimestamp="1275619013"/>
+    <ServerDatePublished Year="2010" Month="03" Day="05" Hour="09" Minute="47" Second="22" Timezone="Z" UnixTimestamp="1267782442"/>
+    <TitleMain Id="450" Language="deu" Value="Dokument mit Datei zum Löschen beim Testen (Selenium)" Type="main"/>
+    <File Id="140" PathName="deleteme.pdf" Label="Datei_zum_loeschen.pdf" MimeType="application/pdf" Language="eng" FileSize="8817" VisibleInFrontdoor="1" VisibleInOai="1" SortOrder="0"/>
+  </Opus_Document>
+  <Opus_Document Id="309" BelongsToBibliography="0" CompletedYear="2020" Language="deu" PublicationState="draft" ServerState="unpublished" Type="article">
+    <CompletedDate Year="2020" Month="05" Day="20" Hour="00" Minute="00" Second="00" Timezone="+02:00" UnixTimestamp="1589925600"/>
+    <ServerDateCreated Year="2020" Month="05" Day="20" Hour="14" Minute="07" Second="58" Timezone="+02:00" UnixTimestamp="1589976478"/>
+    <ServerDateModified Year="2020" Month="05" Day="20" Hour="14" Minute="12" Second="17" Timezone="+02:00" UnixTimestamp="1589976737"/>
+    <TitleMain Id="471" Language="deu" Value="Test Related Identifier" Type="main"/>
+    <TitleAbstract Id="472" Language="deu" Value="Test Enrichment Related Identifier" Type="abstract"/>
+    <Enrichment Id="45" KeyName="RelatedIdentifier" Value="https://www.kobv.de/entwicklung/software/opus-4/"/>
+    <Enrichment Id="46" KeyName="opus.source" Value="publish"/>
+    <Licence Id="1" Active="1" CommentInternal="Namensnennung 4.0 International" DescMarkup="&lt;!-- Creative Commons-Lizenzvertrag --&gt;&#13;&#10;&lt;a rel=&quot;license&quot; href=&quot;https://creativecommons.org/licenses/by/4.0/deed.de&quot;&gt;&lt;img alt=&quot;Creative Commons License&quot; border=&quot;0&quot; src=&quot;https://licensebuttons.net/l/by/4.0/88x31.png&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&#13;&#10;&lt;br /&gt;&#13;&#10;Dieses Werk ist unter der &#13;&#10;&lt;a rel=&quot;license&quot; href=&quot;https://creativecommons.org/licenses/by/4.0/deed.de&quot;&gt;Creative Commons-Lizenz - CC BY - 4.0 International&lt;/a&gt; lizenziert.&lt;/br&gt;&#13;&#10;&lt;!-- Creative Commons-Lizenzvertrag --&gt;&#13;&#10;&#13;&#10;&lt;!--&#13;&#10;&#13;&#10;&lt;rdf:RDF xmlns=&quot;http://web.resource.org/cc/&quot;&#13;&#10;    xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot;&#13;&#10;    xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;&gt;&#13;&#10;&lt;Work rdf:about=&quot;&quot;&gt;&#13;&#10;   &lt;dc:type rdf:resource=&quot;http://purl.org/dc/dcmitype/Text&quot; /&gt;&#13;&#10;   &lt;license rdf:resource=&quot;http://creativecommons.org/licenses/by/4.0/&quot; /&gt;&#13;&#10;&lt;/Work&gt;&#13;&#10;&#13;&#10;&lt;License rdf:about=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;&#13;&#10;   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Reproduction&quot; /&gt;&#13;&#10;   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Distribution&quot; /&gt;&#13;&#10;   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Notice&quot; /&gt;&#13;&#10;   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Attribution&quot; /&gt;&#13;&#10;   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/DerivativeWorks&quot; /&gt;&#13;&#10;&lt;/License&gt;&#13;&#10;&#13;&#10;&lt;/rdf:RDF&gt;&#13;&#10;&#13;&#10;--&gt;" DescText="Diese Lizenz erlaubt es, den Inhalt/das Werk in jedwedem Format oder Medium zu vervielfältigen und weiterzuverbreiten.&#13;&#10;&#13;&#10;Das Material können Sie remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, auch kommerziell.&#13;&#10;&#13;&#10;Unter den folgenden Bedingungen:&#13;&#10;Der Name des Autors/Rechteinhabers muss genannt werden, ein Link zur Lizenz muss beigefügt werden und es muss angegeben werden, ob Änderungen vorgenommen wurden.&#13;&#10;&#13;&#10;Die Lizenz basiert auf der internationalen Creative Commons-Initiative." Language="deu" LinkLicence="https://creativecommons.org/licenses/by/4.0/deed.de" LinkLogo="https://licensebuttons.net/l/by/4.0/88x31.png" MimeType="text/html" Name="CC BY 4.0" NameLong="Creative Commons - CC BY - Namensnennung 4.0 International" SortOrder="0" PodAllowed="0"/>
+    <Person Id="320" LastName="Meier" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <Person Id="321" LastName="KOBV" Email="conrad-rempel@gmx.de" OpusId="0" Role="submitter" SortOrder="2" AllowEmailContact="0"/>
+    <PersonAuthor Id="320" LastName="Meier" OpusId="0" Role="author" SortOrder="1" AllowEmailContact="0"/>
+    <PersonSubmitter Id="321" LastName="KOBV" Email="conrad-rempel@gmx.de" OpusId="0" Role="submitter" SortOrder="1" AllowEmailContact="0"/>
+    <ThesisPublisher Id="2" Name="Foobar Universitätsbibliothek" Address="Musterstraße 2" City="Musterstadt" IsGrantor="0" IsPublisher="1"/>
+  </Opus_Document>
+</export>
