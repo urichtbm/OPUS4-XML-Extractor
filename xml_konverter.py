@@ -69,7 +69,7 @@ class OPUSExtractor:
         return year
     
     
-    def get_xml_element(self, doc, element_name):
+    def get_title_parent(self, doc):
         """
         
         Returns
@@ -78,11 +78,19 @@ class OPUSExtractor:
             XML elements which do not require special treatment.
             
         """
-        element = doc.find(element_name)
+        element = doc.find("TitleParent")
         if element:
             return element.get("Value", "")
         else:
             return ""
+        
+        
+    def get_identifier(self, doc, type_):
+        identifiers = doc.find_all("Identifier")
+        for i in identifiers:
+            if i["Type"] == type_ :
+                return i.get("Value", "")
+        return ""    
         
         
         
@@ -114,31 +122,31 @@ class OPUSExtractor:
     # ------------------------------------------------------------      
 
     def get_journal_data(self, doc):
-        return {"parent_title": self.get_xml_element(doc, "TitleParent"),
+        return {"parent_title": self.get_title_parent(doc),
                 "issue": doc.get("Issue", ""),
                 "volume": doc.get("Volume", ""),
                 "page_first": doc.get("PageFirst", ""),
                 "page_last": doc.get("PageLast", ""),
-                "doi": self.get_xml_element(doc, "IdentifierDoi"),
-                "issn": self.get_xml_element(doc, "IdentifierIssn"),}
-        
+                "doi": self.get_identifier(doc, "doi"),
+                "issn": self.get_identifier(doc, "issn"),}
+# IdentifierDoi      
 
     def get_conference_object_data(self, doc):
-        return {"parent_title": self.get_xml_element(doc, "TitleParent"),
-                "doi": self.get_xml_element(doc, "IdentifierDoi"),}
+        return {"parent_title": self.get_title_parent(doc),
+                "doi": self.get_identifier(doc, "doi"),}
         
     
     def get_book_collection_data(self, doc):
-        return {"collection_title": self.get_xml_element(doc, "TitleParent"),
+        return {"collection_title": self.get_title_parent(doc),
                 "page_first": doc.get("PageFirst", ""),
                 "page_last": doc.get("PageLast", ""),
-                "doi": self.get_xml_element(doc, "IdentifierDoi"),}  
+                "doi": self.get_identifier(doc, "doi"),}  
          
     
     def get_book_data(self, doc):
         return {"publisher": doc.get("PublisherName", ""),
                 "place": doc.get("PublisherPlace", ""),
-                "isbn": self.get_xml_element(doc, "IdentifierIsbn"),}      
+                "isbn": self.get_identifier(doc, "isbn"),}      
     
     
     def get_thesis_data(self, doc):
@@ -149,7 +157,7 @@ class OPUSExtractor:
                     .strftime("%Y-%m-%d")
                     
         return {"accepted": date_accepted, 
-                "doi": self.get_xml_element(doc, "IdentifierDoi"),
+                "doi": self.get_identifier(doc, "doi"),
                 "referees": self.get_persons(doc, "referee"),
                 "advisors": self.get_persons(doc, "advisor"),}
             
@@ -158,8 +166,8 @@ class OPUSExtractor:
     def get_grey_lit_data(self, doc):
         return {"contributingcorporation": doc.get("ContributingCorporation", ""),
                 "creatingcorporation": doc.get("CreatingCorporation", ""),
-                "isbn": self.get_xml_element(doc, "IdentifierIsbn"), 
-                "doi": self.get_xml_element(doc, "IdentifierDoi"),}
+                "isbn": self.get_identifier(doc, "isbn"), 
+                "doi": self.get_identifier(doc, "doi"),}
         
     
     
@@ -371,16 +379,9 @@ def main():
 
                 
 if __name__ == "__main__":
-    main()
+      main()
+
+# os.chdir(r'C:\Users\Wintermute\Documents\XML-Konverter')
+# print(os.getcwd())
    
     
-
-    
-   
-    
-
-    
-              
-
-
-
